@@ -1,0 +1,7 @@
+web/videos/
+build/
+.dart_tool/
+.idea/
+pubspec.lock
+.flutter-plugins-dependencies
+.metadata
